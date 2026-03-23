@@ -67,6 +67,12 @@
                 <a href="https://github.com/Delfi-CH/sysfind-application/releases/latest/download/sysfind-application-0.1.0-1.x86_64.rpm"><span>Fedora</span></a>
             </li>
             <li class="uncommonDownloadItem">
+                <a href="https://raw.githubusercontent.com/Delfi-CH/sysfind-application/refs/heads/main/PKGBUILD-bin" target="_blank" download="PKGBUILD">
+                    <img src="arch.svg" width="32px" height="32px" alt="ArchLinux">
+                </a>
+                <a href="https://raw.githubusercontent.com/Delfi-CH/sysfind-application/refs/heads/main/PKGBUILD-bin" target="_blank" download="PKGBUILD"><span>ArchLinux PKGBUILD</span></a>
+            </li>
+            <li class="uncommonDownloadItem">
                 <a href="https://github.com/Delfi-CH/sysfind-application/releases/latest/download/sysfind-application_0.1.0_aarch64.AppImage">
                     <img src="tux.svg" width="32px" height="32px" alt="Linux ARM">
                 </a>
